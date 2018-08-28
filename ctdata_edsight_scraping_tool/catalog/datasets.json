@@ -2,12 +2,13 @@
     "Chronic Absenteeism": {
         "dataset": "Chronic Absenteeism",
         "link": "http://edsight.ct.gov/SASStoredProcess/do?_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FChronicAbsenteeismReport&_select=Submit&_parampass=Yes",
-        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/ChronicAbsenteeismExport&_year=2015-16&_district=+&_subgroup=All+Students&_school=+",
+        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/ChronicAbsenteeismExport&_year=2016-17&_district=+&_subgroup=All+Students&_school=+",
         "filters": [
             {
                 "name": "Year",
                 "xpath_id": "_year",
                 "options": [
+                    "2016-17",                    
                     "2015-16",
                     "2014-15",
                     "2013-14",
@@ -251,12 +252,13 @@
     "Bullying": {
         "dataset": "Bullying",
         "link": "http://edsight.ct.gov/SASStoredProcess/do?_year=2015-16&_district=All+Districts&_school=&_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FBullyingReport&_select=Submit",
-        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses//BullyingExport&_year=2015-16&_district=All+Districts&_school=+",
+        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses//BullyingExport&_year=2016-17&_district=All+Districts&_school=+",
         "filters": [
             {
                 "name": "Year",
                 "xpath_id": "_year",
                 "options": [
+                    "2016-17",                    
                     "2015-16",
                     "2014-15",
                     "2013-14",
@@ -492,12 +494,13 @@
     "Incidents": {
         "dataset": "Incidents",
         "link": "http://edsight.ct.gov/SASStoredProcess/do?_year=2015-16&_district=All+Districts&_school=&_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FIncidentReport&_select=Submit",
-        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/IncidentExport&_year=2015-16&_district=All+Districts&_school=+",
+        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/IncidentExport&_year=2016-17&_district=All+Districts&_school=+",
         "filters": [
             {
                 "name": "Year",
                 "xpath_id": "_year",
                 "options": [
+                    "2016-17",                     
                     "2015-16",
                     "2014-15",
                     "2013-14",
@@ -736,12 +739,13 @@
     "Sanctions": {
         "dataset": "Sanctions",
         "link": "http://edsight.ct.gov/SASStoredProcess/do?_year=2015-16&_district=All+Districts&_school=&_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FDisciplineReport&_select=Submit",
-        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/DisciplineExport&_year=2015-16&_district=All+Districts&_school=+",
+        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/DisciplineExport&_year=2016-17&_district=All+Districts&_school=+",
         "filters": [
             {
                 "name": "Year",
                 "xpath_id": "_year",
                 "options": [
+                    "2016-17",                     
                     "2015-16",
                     "2014-15",
                     "2013-14",
@@ -980,12 +984,13 @@
     "Suspension Rates": {
         "dataset": "Suspension Rates",
         "link": "http://edsight.ct.gov/SASStoredProcess/do?_year=2015-16&_district=All+Districts&_school=&_subgroup=+&_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FSuspensionRateReport&_select=Submit",
-        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/SuspensionRateExport&_year=2015-16&_district=All+Districts&_school=+&_subgroup=+",
+        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/SuspensionRateExport&_year=2016-17&_district=All+Districts&_school=+&_subgroup=+",
         "filters": [
             {
                 "name": "Year",
                 "xpath_id": "_year",
                 "options": [
+                    "2016-17",                     
                     "2015-16",
                     "2014-15",
                     "2013-14",
@@ -1233,13 +1238,14 @@
     },
     "Annual Expenditures": {
         "dataset": "Annual Expenditures",
-        "link": "http://edsight.ct.gov/SASStoredProcess/do?_rpttype=listing&_year=2014-15&_district=All+Districts&_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FFinanceReport&_select=Submit",
-        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/FinanceExport&_year=2014-15&_district=All+Districts",
+        "link": "http://edsight.ct.gov/SASStoredProcess/do?_rpttype=listing&_year=2015-16&_district=All+Districts&_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FFinanceReport&_select=Submit",
+        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/FinanceExport&_year=2015-16&_district=All+Districts",
         "filters": [
             {
                 "name": "Year",
                 "xpath_id": "_year",
                 "options": [
+                    "2015-16",      
                     "2014-15",
                     "2013-14",
                     "2012-13",
@@ -1456,13 +1462,14 @@
     },
     "Revenue Sources": {
         "dataset": "Revenue Sources",
-        "link": "http://edsight.ct.gov/SASStoredProcess/do?_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FRevenueSourceReport&_district=All%20Districts&_select=Submit&_year=2014-15&_schoolconstr=All",
-        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/RevenueSourceExport&_year=2014-15&_district=All+Districts&_schoolconstr=All",
+        "link": "http://edsight.ct.gov/SASStoredProcess/do?_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FRevenueSourceReport&_district=All%20Districts&_select=Submit&_year=2015-16&_schoolconstr=All",
+        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/RevenueSourceExport&_year=2015-16&_district=All+Districts&_schoolconstr=All",
         "filters": [
             {
                 "name": "Year",
                 "xpath_id": "_year",
                 "options": [
+                    "2015-16",
                     "2014-15",
                     "2013-14",
                     "2012-13",
@@ -1687,13 +1694,14 @@
     },
     "Per Pupil Expenditures": {
         "dataset": "Per Pupil Expenditures",
-        "link": "http://edsight.ct.gov/SASStoredProcess/do?_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FPerPupilReport&_district=All%20Districts&_select=Submit&_year=2014-15",
-        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/PerPupilExport&_year=2014-15&_district=All+Districts",
+        "link": "http://edsight.ct.gov/SASStoredProcess/do?_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FPerPupilReport&_district=All%20Districts&_select=Submit&_year=2015-16",
+        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/PerPupilExport&_year=2015-16&_district=All+Districts",
         "filters": [
             {
                 "name": "Year",
                 "xpath_id": "_year",
                 "options": [
+                    "2015-16",
                     "2014-15",
                     "2013-14",
                     "2012-13",
@@ -1910,13 +1918,14 @@
     },
     "Special Education Expenditures": {
         "dataset": "Special Education Expenditures",
-        "link": "http://edsight.ct.gov/SASStoredProcess/do?_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FSpecialEducationReport&_district=All%20Districts&_select=Submit&_year=2014-15",
-        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/SpecialEducationExport&_year=2014-15&_district=All+Districts",
+        "link": "http://edsight.ct.gov/SASStoredProcess/do?_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FSpecialEducationReport&_district=All%20Districts&_select=Submit&_year=2015-16",
+        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/SpecialEducationExport&_year=2015-16&_district=All+Districts",
         "filters": [
             {
                 "name": "Year",
                 "xpath_id": "_year",
                 "options": [
+                    "2015-16",
                     "2014-15",
                     "2013-14",
                     "2012-13",
@@ -2133,13 +2142,14 @@
     },
     "Enrollment": {
         "dataset": "Enrollment",
-        "link": "http://edsight.ct.gov/SASStoredProcess/do?_year=2015-16&_district=All+Districts&_school=&_subgroup=All+Students+&_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FEnrollmentReport&_select=Submit",
-        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses//EnrollmentYearExport&_year=2015-16&_district=All+Districts&_school=+&_subgroup=All+Students&display=1",
+        "link": "http://edsight.ct.gov/SASStoredProcess/do?_year=2017-18&_district=All+Districts&_school=&_subgroup=All+Students+&_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FEnrollmentReport&_select=Submit",
+        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses//EnrollmentYearExport&_year=2017-18&_district=All+Districts&_school=+&_subgroup=All+Students&display=1",
         "filters": [
             {
                 "name": "Year",
                 "xpath_id": "_year",
                 "options": [
+                    "2017-18",
                     "2016-17",
                     "2015-16",
                     "2014-15",
@@ -2392,13 +2402,15 @@
     },
     "Primary Disability": {
         "dataset": "Primary Disability",
-        "link": "http://edsight.ct.gov/SASStoredProcess/do?_year=2015-16&_district=All+Districts&_subgroup=&_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FPrimaryDisabilityReport&_select=Submit",
-        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/PrimaryDisabilityExport&_year=2015-16&_district=All+Districts&_subgroup=+",
+        "link": "http://edsight.ct.gov/SASStoredProcess/do?_year=2017-18&_district=All+Districts&_subgroup=&_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FPrimaryDisabilityReport&_select=Submit",
+        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/PrimaryDisabilityExport&_year=2017-18&_district=All+Districts&_subgroup=+",
         "filters": [
             {
                 "name": "Year",
                 "xpath_id": "_year",
                 "options": [
+                    "2017-18",
+                    "2016-17",
                     "2015-16",
                     "2014-15",
                     "2013-14",
@@ -2604,13 +2616,15 @@
     },
     "Time with Nondisabled Peers": {
         "dataset": "Time with Nondisabled Peers",
-        "link": "http://edsight.ct.gov/SASStoredProcess/do?_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FTimeWithNonDisPeersReport&_year=2015-16&_district=State%20of%20Connecticut&_select=Submit&_subgroup=",
-        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/TimeWithNonDisPeersExport&_year=2015-16&_district=All+Districts&_subgroup=+",
+        "link": "http://edsight.ct.gov/SASStoredProcess/do?_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FTimeWithNonDisPeersReport&_year=2017-18&_district=State%20of%20Connecticut&_select=Submit&_subgroup=",
+        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/TimeWithNonDisPeersExport&_year=2017-18&_district=All+Districts&_subgroup=+",
         "filters": [
             {
                 "name": "Year",
                 "xpath_id": "_year",
                 "options": [
+                    "2017-18",
+                    "2016-17",
                     "2015-16",
                     "2014-15",
                     "2013-14",
@@ -2815,13 +2829,17 @@
     },
     "Educator Demographics": {
         "dataset": "Educator Demographics",
-        "link": "http://edsight.ct.gov/SASStoredProcess/do?_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FStaffingRaceReport&_default=Yes&_select=Submit",
-        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/StaffingRaceExport&_year=Trend&_district=All+Districts&_school=+&_subgroup=All",
+        "link": "hhttp://edsight.ct.gov/SASStoredProcess/do?_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FStaffingRaceReport&_district=All%20Districts&_select=Submit&_parampass=Yes&_year=2017-18&_subgroup=Al",
+        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/StaffingRaceExport&amp;_year=2017-18&amp;_district=All+Districts&amp;_school=+&amp;_subgroup=Alll",
         "filters": [
             {
                 "name": "Year",
                 "xpath_id": "_year",
                 "options": [
+                    "2017-18",
+                    "2016-17",
+                    "2015-16",
+                    "2014-15",
                     "2013-14",
                     "2012-13",
                     "2011-12",
@@ -3073,13 +3091,15 @@
     },
     "Educator Qualifications": {
         "dataset": "Educator Qualifications",
-        "link": "http://edsight.ct.gov/SASStoredProcess/do?_year=2015-16&_district=All+Districts&_school=&_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FHQTReport&_select=Submit",
-        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/HQTExport&_year=2015-16&_district=All+Districts&_school=+",
+        "link": "http://edsight.ct.gov/SASStoredProcess/do?_year=2017-18&_district=All+Districts&_school=&_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FHQTReport&_select=Submit",
+        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/HQTExport&_year=2017-18&_district=All+Districts&_school=+",
         "filters": [
             {
                 "name": "Year",
                 "xpath_id": "_year",
                 "options": [
+                    "2017-18",
+                    "2016-17",
                     "2015-16",
                     "2014-15",
                     "2013-14"
@@ -3308,13 +3328,15 @@
     },
     "Staffing Levels": {
         "dataset": "Staffing Levels",
-        "link": "http://edsight.ct.gov/SASStoredProcess/do?_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FFTEStaffingReport&_select=Submit&_parampass=Yes",
-        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/FTEStaffingExport&_year=2015-16&_district=All+Districts&_school=+&_filterby=+&_subgroup=+",
+        "link": "http://edsight.ct.gov/SASStoredProcess/do?_program=%2FCTDOE%2FEdSight%2FRelease%2FReporting%2FPublic%2FReports%2FStoredProcesses%2FFTEStaffingReport&_district=All%20Districts&_select=Submit&_parampass=Yes&_year=2017-18&_filterby=All&_subgroup=&_school=",
+        "download_link": "http://edsight.ct.gov/SASStoredProcess/do?_program=/CTDOE/EdSight/Release/Reporting/Public/Reports/StoredProcesses/FTEStaffingExport&_year=2017-18&_district=All+Districts&_school=+&_filterby=+&_subgroup=+",
         "filters": [
             {
                 "name": "Year",
                 "xpath_id": "_year",
                 "options": [
+                    "2017-18",
+                    "2016-17",
                     "2015-16",
                     "2014-15",
                     "2013-14",
